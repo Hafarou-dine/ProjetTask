@@ -1,0 +1,15 @@
+input{
+    font-size: 16px;
+    width: 400px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+input[type="submit"]{
+    font-size: 16px;
+    width: 120px;
+    padding: 5px;
+    background-color: rgb(14, 146, 235);
+}
+
